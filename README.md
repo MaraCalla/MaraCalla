@@ -8,4 +8,10 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+## Hobbies
+- Dancing: ...
+
+
+
+
 
